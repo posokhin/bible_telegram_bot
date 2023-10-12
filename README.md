@@ -1,5 +1,5 @@
 # Библия в твоем кармане
 
-![выбрать книгу](images/image.png)
-![Alt text](images/image-1.png)
-![Alt text](images/image-2.png)
+![выбрать книгу](images/1.jpeg)
+![Alt text](images/2.jpeg)
+![Alt text](images/3.jpeg)
