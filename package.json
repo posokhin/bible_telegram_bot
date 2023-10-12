@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/index.ts",
-    "test": "jest"
+    "test": "jest",
+    "build": "tsc"
   },
   "author": "anton posokhin",
   "license": "ISC",
